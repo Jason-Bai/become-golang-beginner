@@ -11,11 +11,11 @@ type geometry interface {
 }
 
 type rect struct {
-	width, height int
+	width, height float64
 }
 
 type circle struct {
-	redius float64
+	radius float64
 }
 
 func (r rect) area() float64 {
@@ -27,11 +27,11 @@ func (r rect) perim() float64 {
 }
 
 func (r circle) area() float64 {
-	return math.Pi * r.redius * r.redius
+	return math.Pi * r.radius * r.radius
 }
 
 func (r circle) perim() float64 {
-	return 2 * math.Pi * r.redius
+	return 2 * math.Pi * r.radius
 }
 
 func measure(g geometry) {
