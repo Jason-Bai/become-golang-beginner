@@ -15,3 +15,9 @@ This is a golang tutorial codes, all codes find on https://golangbot.com website
 9. Loops - loops
 10. Switch Statement - switch
 11. Arrays and Slices - array&slices
+12. Variadic Functions - variadicfunctions
+13. Maps - maps
+14. Strings - strings
+15. Pointers - pointers
+16. Structures - structures
+17. Methods - methods
