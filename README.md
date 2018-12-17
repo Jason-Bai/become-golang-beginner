@@ -10,3 +10,5 @@ This is a golang tutorial codes, all codes find on https://golangbot.com website
 4. Constants - constants
 5. Functions - functions
 6. Packages - packages
+7. Loops - loops
+8. Switch - switch
