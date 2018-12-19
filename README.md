@@ -35,3 +35,6 @@ This is a golang tutorial codes, all codes find on https://golangbot.com website
 29. Defer - defer
 30. Error Handling - error
 31. Custom Errors - customerrors
+32. Panic and Recover - panicrecover
+33. First Class Functions - firstclassfunctions
+34. Reflection - reflection
